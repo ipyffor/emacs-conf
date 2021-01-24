@@ -1,0 +1,12 @@
+ls
+pwd
+cd ..
+ls
+ll
+ls
+ls -a
+rm .emacs
+mkdir pip
+echo 
+echo -e "[global]\nindex-url = https://pypi.tuna.tsinghua.edu.cn/simple">pip/pip.ini
+cat pip/pip.ini 
